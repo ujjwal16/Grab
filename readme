@@ -1,1 +1,8 @@
 Python script for site grabber.
+
+To run the code follow following instrucitons-
+1.Download all files to same directory
+2.From terminal(cmd in windows) type python crawl.py " Main link to crawl".
+  Note:-in windows enter python with complete path
+3.File named visited.txt will be created in the same directory containing the list of links.
+4.For feedback drop mail at ujjwal6@gmail.com
